@@ -1,5 +1,5 @@
 # theme
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 title: Stephania Contreras Castillo
 # build
 markdown: kramdown
