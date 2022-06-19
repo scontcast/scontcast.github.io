@@ -1,7 +1,7 @@
 # theme
 theme: jekyll-theme-minimal
 title: Stephania Contreras Castillo
-# build settings 
+# build
 markdown: kramdown
 # specific stuff
 github:
