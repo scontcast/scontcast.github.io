@@ -6,7 +6,7 @@ I'm licensed in Pharmaceutial Sciences from the University of Chile, (Santiago, 
 
 After finishing my license and professional degree of Pharmaceutical Chemist, I was awarded with a scholarship from the Chilean Government (CONICYT) to perform a PhD in Rebecca Oakey's lab at King's College London (London, UK). During my PhD I studied the effect of hydroxyurea on DNA methylation and gene expression in myeloproliferative neoplasm (MPN) patients and mouse model ([Article](https://genome.cshlp.org/content/early/2021/07/23/gr.270066.120)).
 
-Currently, I'm a postdoc in Catherine Sawai's lab (INSERM U1312) at the University of Bordeaux (Bordeaux, France). Here I study the effect of aging in normal hematopoiesis using a transgenic mouse model ([Sawai, et al 2016](https://www.cell.com/immunity/fulltext/S1074-7613(16)30308-9), [Upadhaya et al 2018](https://doi.org/10.1084/jem.20180136)) that allows us to do lineage tracing of endogenous hematopoietic stem cells . 
+Currently, I'm a postdoc in Catherine Sawai's lab (INSERM U1312) at the University of Bordeaux (Bordeaux, France). Here I study the effect of aging in normal hematopoiesis using a transgenic mouse model ([Sawai, *et al*., 2016](https://www.cell.com/immunity/fulltext/S1074-7613(16)30308-9), [Upadhaya, *et al*., 2018](https://doi.org/10.1084/jem.20180136)) that allows us to do lineage tracing of endogenous hematopoietic stem cells . 
 
 # Publications
 
