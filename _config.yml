@@ -8,3 +8,5 @@ github:
   is_project_page: false
   is_user_page: false
 show_downloads: false
+  social_links:
+        - { platform: linkedin,       user_url: "https://www.linkedin.com/in/stephania-contreras-castillo" }
