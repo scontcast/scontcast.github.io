@@ -7,8 +7,8 @@ author:
   location : "Bordeaux, France"
 links:
   - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://instagram.com/stephania-contreras-castillo"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://instagram.com/stephania-contreras-castillo"
 # build
 markdown: kramdown
 plugins:
