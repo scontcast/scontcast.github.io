@@ -2,12 +2,8 @@
 theme: jekyll-theme-minimal
 title: Stephania Contreras Castillo
 description:
-twitter_username: m3lorra
 # build
 markdown: kramdown
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
 # specific stuff
 github:
   is_project_page: false
