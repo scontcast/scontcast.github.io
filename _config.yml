@@ -1,7 +1,11 @@
 # theme
 theme: jekyll-theme-minimal
-title: Stephania Contreras Castillo
-owner:
+title: 
+author:
+  name     : "Stephania Contreras Castillo"
+  avatar   : "/assets/images/bio-photo.jpg"
+  bio      : "Research scientist"
+  location : "Bordeaux, France"
   linkedin: "stephania-contreras-castillo"
 # build
 markdown: kramdown
