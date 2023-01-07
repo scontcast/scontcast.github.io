@@ -14,4 +14,15 @@ Currently, I'm postdoc in Catherine Sawai's lab (INSERM U1312) at the University
 - *S. M. Amante et al.*, “Transcription of intragenic CpG islands influences spatiotemporal host gene pre-mRNA processing,” Nucleic Acids Research, vol. 48, no. 15, pp. 8349–8359, Sep. 2020, doi: [10.1093/nar/gkaa556](https://doi.org/10.1093/nar/gkaa556).
 - *Á. Roco, J. Cayún, S. Contreras, J. Stojanova, and L. Quiñones*, “Can pharmacogenetics explain efficacy and safety of cisplatin pharmacotherapy?,” *Frontiers in Genetics*, vol. 5, no. Nov. Frontiers Media S.A., 2014. doi: [10.3389/fgene.2014.00391](https://doi.org/10.3389/fgene.2014.00391).
 
-# Datasets
+# Techniques experience
+
+- RNA-seq for low input of RNA (TaKaRa)
+- Single cell RNA-seq (10x Genomics)
+- Single cell multiome ATAC + Gene Expression seq (10x Genomics)
+- Infinium MethylationEPIC (Illumina)
+
+# Coding
+
+- Bulk RNA-seq packages: fastqc, STAR, Kallisto, sleuth, enrichR
+- Single cell RNA/ATAC-seq: cellranger, Seurat, SingleR, SCENIC, GSEA 
+- DNA methylation: limma, minfi, RnBeads, wateRmelon, sva, DMRcate
