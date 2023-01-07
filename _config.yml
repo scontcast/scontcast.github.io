@@ -3,6 +3,7 @@ theme: jekyll-theme-minimal
 title: Stephania Contreras Castillo
 blank_title: true
 description: ""
+email: stephania dot contreras at u-bordeaux dot com
 # build
 markdown: kramdown
 # specific stuff
