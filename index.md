@@ -26,3 +26,11 @@ Currently, I'm postdoc in Catherine Sawai's lab (INSERM U1312) at the University
 - Bulk RNA-seq: fastqc, STAR, Kallisto, sleuth, enrichR
 - Single cell RNA/ATAC-seq: cellranger, Seurat, SingleR, SCENIC, GSEA 
 - DNA methylation: limma, minfi, RnBeads, wateRmelon, sva, DMRcate
+- visualization tools: ggplot2
+
+# Free time
+
+Tennis
+Street photography, analog & digital 
+Bicyle touring 
+Enthusiastic eater 
