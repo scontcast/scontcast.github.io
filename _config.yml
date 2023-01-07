@@ -1,12 +1,14 @@
 # theme
 theme: jekyll-theme-minimal
-title: 
 author:
   name     : "Stephania Contreras Castillo"
   avatar   : "/assets/images/bio-photo.jpg"
   bio      : "Research scientist"
   location : "Bordeaux, France"
-  linkedin: "stephania-contreras-castillo"
+links:
+  - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://instagram.com/stephania-contreras-castillo"
 # build
 markdown: kramdown
 plugins:
