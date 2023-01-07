@@ -1,6 +1,8 @@
 # theme
 theme: jekyll-theme-minimal
 title: Stephania Contreras Castillo
+description:
+twitter_username: m3lorra
 # build
 markdown: kramdown
 plugins:
