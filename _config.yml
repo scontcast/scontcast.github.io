@@ -1,15 +1,6 @@
 # theme
 theme: jekyll-theme-minimal
 title: Stephania Contreras Castillo
-author:
-  name     : "Stephania Contreras Castillo"
-  avatar   : "/assets/images/bio-photo.jpg"
-  bio      : "Research scientist"
-  location : "Bordeaux, France"
-links:
-  - label: "Linkedin"
-    icon: "fab fa-fw fa-linkedin"
-    url: "https://www.linkedin.com/in/stephania-contreras-castillo/"
 # build
 markdown: kramdown
 plugins:
