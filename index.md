@@ -3,7 +3,7 @@ layout: default
 ---
 # About me
 
-I'm Doctor in Cancer Genetics and licensed in Pharmaceutial Sciences. I did my PhD in Rebecca Oakey's lab at King's College London (London, UK) where I studied the effect of hydroxyurea treatment on DNA methylation and gene expression in myeloproliferative neoplasm patients, as well as in a mouse model of the disease ([Article](https://genome.cshlp.org/content/early/2021/07/23/gr.270066.120)).
+I'm Doctor in Cancer Genetics and licensed in Pharmaceutial Sciences. I did my PhD in Rebecca Oakey's lab at King's College London (London, UK) where I studied the effect of hydroxyurea treatment on DNA methylation and gene expression in myeloproliferative neoplasm patients, as well as in a mouse model of the disease ([Contreras Castillo S., *et al*., 2021](https://genome.cshlp.org/content/early/2021/07/23/gr.270066.120)).
 
 Currently, I'm postdoc in Catherine Sawai's lab (INSERM U1312) at the University of Bordeaux (Bordeaux, France). Here, I study the effect of aging in normal hematopoiesis using a transgenic mouse model that allows us to do lineage tracing of endogenous hematopoietic stem cells ([Sawai, *et al*., 2016](https://www.cell.com/immunity/fulltext/S1074-7613(16)30308-9), [Upadhaya, *et al*., 2018](https://doi.org/10.1084/jem.20180136)). 
 
