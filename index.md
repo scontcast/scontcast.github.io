@@ -11,7 +11,7 @@ Currently, I'm postdoc in Catherine Sawai's lab (INSERM U1312) at the University
 
 - *S. Contreras Castillo et al.*, “Hydroxycarbamide effects on DNA methylation and gene expression in myeloproliferative neoplasms,” *Genome Research*, vol. 31, no. 8, pp. 1381–1394, Aug. 2021, doi: [10.1101/gr.270066.120](https://doi.org/10.1101/gr.270066.120).
 - *S. Contreras Castillo et al.*, “Effect of CYP3A4, CYP3A5, MDR1 and POR Genetic Polymorphisms in Immunosuppressive Treatment in Chilean Kidney Transplanted Patients,” *Frontiers in Pharmacology*, vol. 12, Dec. 2021, doi: [10.3389/fphar.2021.674117](https://doi.org/10.3389/fphar.2021.674117).
-- *S. M. Amante et al.*, “Transcription of intragenic CpG islands influences spatiotemporal host gene pre-mRNA processing,” Nucleic Acids Research, vol. 48, no. 15, pp. 8349–8359, Sep. 2020, doi: [10.1093/nar/gkaa556](https://doi.org/10.1093/nar/gkaa556).
+- *S. M. Amante et al.*, “Transcription of intragenic CpG islands influences spatiotemporal host gene pre-mRNA processing,” *Nucleic Acids Research*, vol. 48, no. 15, pp. 8349–8359, Sep. 2020, doi: [10.1093/nar/gkaa556](https://doi.org/10.1093/nar/gkaa556).
 - *Á. Roco, J. Cayún, S. Contreras, J. Stojanova, and L. Quiñones*, “Can pharmacogenetics explain efficacy and safety of cisplatin pharmacotherapy?,” *Frontiers in Genetics*, vol. 5, no. Nov. Frontiers Media S.A., 2014. doi: [10.3389/fgene.2014.00391](https://doi.org/10.3389/fgene.2014.00391).
 
 # Techniques experience
@@ -21,8 +21,8 @@ Currently, I'm postdoc in Catherine Sawai's lab (INSERM U1312) at the University
 - Single cell multiome ATAC + Gene Expression seq (10x Genomics)
 - Infinium MethylationEPIC (Illumina)
 
-# Coding
+# Coding experience
 
-- Bulk RNA-seq packages: fastqc, STAR, Kallisto, sleuth, enrichR
+- Bulk RNA-seq: fastqc, STAR, Kallisto, sleuth, enrichR
 - Single cell RNA/ATAC-seq: cellranger, Seurat, SingleR, SCENIC, GSEA 
 - DNA methylation: limma, minfi, RnBeads, wateRmelon, sva, DMRcate
