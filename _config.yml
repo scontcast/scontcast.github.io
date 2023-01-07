@@ -1,5 +1,6 @@
 # theme
 theme: jekyll-theme-minimal
+title: Stephania Contreras Castillo
 author:
   name     : "Stephania Contreras Castillo"
   avatar   : "/assets/images/bio-photo.jpg"
@@ -8,7 +9,7 @@ author:
 links:
   - label: "Linkedin"
     icon: "fab fa-fw fa-linkedin"
-    url: "https://instagram.com/stephania-contreras-castillo"
+    url: "https://www.linkedin.com/in/stephania-contreras-castillo/"
 # build
 markdown: kramdown
 plugins:
