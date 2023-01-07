@@ -1,6 +1,8 @@
 # theme
 theme: jekyll-theme-minimal
 title: Stephania Contreras Castillo
+owner:
+  linkedin: "stephania-contreras-castillo"
 # build
 markdown: kramdown
 plugins:
