@@ -30,7 +30,7 @@ Currently, I'm postdoc in Catherine Sawai's lab (INSERM U1312) at the University
 
 # Free time
 
-Tennis
-Street photography, analog & digital 
-Bicyle touring 
-Enthusiastic eater 
+- Tennis
+- Street photography, analog & digital 
+- Bicyle touring 
+- Enthusiastic eater 
