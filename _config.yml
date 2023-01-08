@@ -4,6 +4,7 @@ title: Stephania Contreras Castillo
 blank_title: true
 description: ""
 email: stephania dot contreras at u-bordeaux dot com
+show_downloads: false
 # build
 markdown: kramdown
 # specific stuff
@@ -14,3 +15,8 @@ show_downloads: false
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jemoji
+sidebar:
+  - name: Linkedin
+    icon:
+    link: https://algo.com
