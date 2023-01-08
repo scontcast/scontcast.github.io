@@ -10,6 +10,14 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+
+    {% if site.cdn.jsdelivr.enabled %}
+      <link rel="preload" href="{{ assets_base_url }}{{ site.logo }}" as="image">
+    {% else %}
+      <link rel="preload" href="{{ site.logo | relative_url }}" as="image">
+    {% endif %}
+    
+    {% include head-custom.html %}
   </head>
   <body>
     <div class="wrapper">
