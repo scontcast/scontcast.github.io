@@ -15,11 +15,13 @@ Currently, I'm postdoc in Katie Sawai's lab (INSERM U1312) at the University of 
 - *Á. Roco, J. Cayún, S. Contreras, J. Stojanova, and L. Quiñones*, “Can pharmacogenetics explain efficacy and safety of cisplatin pharmacotherapy?,” *Frontiers in Genetics*, vol. 5, no. Nov. Frontiers Media S.A., 2014. doi: [10.3389/fgene.2014.00391](https://doi.org/10.3389/fgene.2014.00391).
 
 # Techniques experience
+
 - Omics 
 	+ RNA-seq for low input of RNA (TaKaRa)
 	+ Single cell RNA-seq (10x Genomics)
 	+ Single cell multiome ATAC + Gene Expression seq (10x Genomics)
 	+ Infinium MethylationEPIC (Illumina)
+
 - Flow cytometry
 - CRISPR-Cas9 (mESC, primary cells & cell lines)
 
