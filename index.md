@@ -8,7 +8,7 @@ I'm Doctor in Cancer Genetics and licensed in Pharmaceutial Sciences. I did my P
 Currently, I'm postdoc in Katie Sawai's lab (INSERM U1312) at the University of Bordeaux (Bordeaux, France). Here, I study the effect of aging in normal hematopoiesis using a transgenic mouse model that allows us to do lineage tracing of endogenous hematopoietic stem cells ([Sawai, *et al*., 2016](https://www.cell.com/immunity/fulltext/S1074-7613(16)30308-9), [Upadhaya, *et al*., 2018](https://doi.org/10.1084/jem.20180136)). 
 
 # Publications
-
+- *G. Jang†, S. Contreras Castillo†, et al.* Stem cell decoupling underlies impaired lymphoid development during aging. Proc. Natl. Acad. Sci. 120, 2017. doi: [10.1073/pnas.2302019120](https://doi.org/10.1073/pnas.2302019120). †denotes equal contribution.
 - *S. Contreras Castillo et al.*, “Hydroxycarbamide effects on DNA methylation and gene expression in myeloproliferative neoplasms,” *Genome Research*, vol. 31, no. 8, pp. 1381–1394, Aug. 2021, doi: [10.1101/gr.270066.120](https://doi.org/10.1101/gr.270066.120).
 - *S. Contreras Castillo et al.*, “Effect of CYP3A4, CYP3A5, MDR1 and POR Genetic Polymorphisms in Immunosuppressive Treatment in Chilean Kidney Transplanted Patients,” *Frontiers in Pharmacology*, vol. 12, Dec. 2021, doi: [10.3389/fphar.2021.674117](https://doi.org/10.3389/fphar.2021.674117).
 - *S. M. Amante et al.*, “Transcription of intragenic CpG islands influences spatiotemporal host gene pre-mRNA processing,” *Nucleic Acids Research*, vol. 48, no. 15, pp. 8349–8359, Sep. 2020, doi: [10.1093/nar/gkaa556](https://doi.org/10.1093/nar/gkaa556).
