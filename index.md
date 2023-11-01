@@ -38,4 +38,4 @@ Currently, I am a postdoc in Katie Sawai's lab (INSERM U1312) at the University 
 
 - Tennis
 - Street photography, analog & digital 
-- Bicycle touring 
+- Bike touring 
