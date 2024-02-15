@@ -3,9 +3,9 @@ layout: default
 ---
 # About me
 
-I hold a PhD in Cancer Genetics and I am licensed in Pharmaceutical Sciences. I completed my doctoral studies in King's College London (UK), where I investigated the impact of hydroxyurea treatment on DNA methylation and gene expression in patients with myeloproliferative neoplasms, as well as in a mouse model of the disease ([Contreras Castillo, *et al*., 2021](https://genome.cshlp.org/content/early/2021/07/23/gr.270066.120)).
+I am licensed in Pharmaceutical Sciences and I completed my doctoral studies in King's College London, where I investigated the impact of hydroxyurea treatment on DNA methylation and gene expression in patients with myeloproliferative neoplasms, as well as in a mouse model of the disease ([Contreras Castillo, *et al*., 2021](https://genome.cshlp.org/content/early/2021/07/23/gr.270066.120)). After my PhD, I moved to France to work with Katie Sawai at the University of Bordeaux. My research focused on studying the impact of aging on normal hematopoiesis using single-cell multi-omic techniques ([G. Jang†, S. Contreras Castillo†, *et al*., 2023](https://doi.org/10.1073/pnas.2302019120)). 
 
-Currently, I am a postdoc in Katie Sawai's lab (INSERM U1312) at the University of Bordeaux (France). My research focuses on studying the impact of aging on normal hematopoiesis using single-cell multi-omic techniques. 
+Now, I moved to Germany to join Leif Ludwig laboratory to work on the effects of chemotherapy on the clonal dynamics of hematopoietic cells in young cancer survivors. My project involves the use of state-of-the-art single-cell multiome approaches (mtscATAC-seq) and DNA methylation data. 
 
 # Publications
 - *G. Jang†, S. Contreras Castillo†, et al.* Stem cell decoupling underlies impaired lymphoid development during aging. Proc. Natl. Acad. Sci. 120, 2017. doi: [10.1073/pnas.2302019120](https://doi.org/10.1073/pnas.2302019120).
