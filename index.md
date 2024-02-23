@@ -3,9 +3,12 @@ layout: default
 ---
 # About me
 
-I am licensed in Pharmaceutical Sciences and I completed my doctoral studies in King's College London. On my PhD project I investigated the impact of hydroxyurea treatment on DNA methylation and gene expression in patients with myeloproliferative neoplasms, as well as in a mouse model of the disease ([Contreras Castillo, *et al*., 2021](https://genome.cshlp.org/content/early/2021/07/23/gr.270066.120)). After my PhD, I moved to France to work with Katie Sawai at the University of Bordeaux. My research focused on studying the impact of aging on normal hematopoiesis using single-cell multi-omic techniques ([G. Jang†, S. Contreras Castillo†, *et al*., 2023](https://doi.org/10.1073/pnas.2302019120)). 
+I am licensed in Pharmaceutical Sciences from the University of Chile and I have a PhD in Cancer Genetics from King's College London. 
 
-Now, I moved to Germany to join Leif Ludwig laboratory at Max Delbrück Center to work on the effects of chemotherapy on the clonal dynamics of hematopoietic cells in young cancer survivors. My project involves the use of state-of-the-art single-cell multiome approaches (mtscATAC-seq) and DNA methylation data. 
+# My research journey
+On my PhD project I investigated the impact of hydroxyurea treatment on DNA methylation and gene expression in patients with myeloproliferative neoplasms, as well as in a mouse model of the disease ([Contreras Castillo, *et al*., 2021](https://genome.cshlp.org/content/early/2021/07/23/gr.270066.120)). After my PhD, I moved to France to work with Dr Katie Sawai at the University of Bordeaux. My research focused on studying the impact of aging on normal hematopoiesis using single-cell multi-omic techniques ([G. Jang†, S. Contreras Castillo†, *et al*., 2023](https://doi.org/10.1073/pnas.2302019120)). 
+
+In 2024, I moved to Germany to join Dr Leif Ludwig laboratory at the Berlin Instute of Health and Max Delbrück Center to work on the effects of chemotherapy on the clonal dynamics of hematopoietic cells in young cancer survivors. My project involves the use of state-of-the-art single-cell multiome approaches (mtscATAC-seq) and DNA methylation data. 
 
 # Publications
 - *G. Jang†, S. Contreras Castillo†, et al.* Stem cell decoupling underlies impaired lymphoid development during aging. Proc. Natl. Acad. Sci. 120, 2017. doi: [10.1073/pnas.2302019120](https://doi.org/10.1073/pnas.2302019120).
@@ -16,26 +19,7 @@ Now, I moved to Germany to join Leif Ludwig laboratory at Max Delbrück Center t
 
 †denotes equal contribution
 
-# Techniques experience
+% # Public available datasets
 
-- Omics 
-	+ RNA-seq for low input of RNA (TaKaRa)
-	+ Single cell RNA-seq (10x Genomics)
-	+ Single cell multiome ATAC + Gene Expression seq (10x Genomics)
-	+ Infinium MethylationEPIC (Illumina)
+% # Awards
 
-- Flow cytometry
-- CRISPR-Cas9 (mESC, primary cells & cell lines)
-
-# Coding experience
-
-- Bulk RNA-seq: fastqc, STAR, Kallisto, sleuth, enrichR
-- Single cell RNA/ATAC-seq: cellranger, Seurat, SingleR, SCENIC, GSEA 
-- DNA methylation: limma, minfi, RnBeads, wateRmelon, sva, DMRcate
-- visualization tools: ggplot2
-
-# Free time
-
-- Tennis
-- Street photography, analog & digital 
-- Bike touring 
