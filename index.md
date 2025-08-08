@@ -11,7 +11,7 @@ On my PhD project I investigated the impact of hydroxyurea treatment on DNA meth
 In 2024, I relocated to Germany to join Dr. Leif Ludwig's laboratory at the Berlin Institute of Health and Max Delbrück Center. Here, I am working on the effects of chemotherapy on the clonal dynamics of hematopoietic cells in young cancer survivors. My project employs state-of-the-art single-cell multi-ome approaches, such as mtscATAC-seq, and utilizes DNA methylation data.
 
 # Publications
-- *G. Jang†, S. Contreras Castillo†, et al.* Stem cell decoupling underlies impaired lymphoid development during aging. Proc. Natl. Acad. Sci. 120, 2017. doi: [10.1073/pnas.2302019120](https://doi.org/10.1073/pnas.2302019120).
+- *G. Jang†, S. Contreras Castillo†, et al.* Stem cell decoupling underlies impaired lymphoid development during aging. Proc. Natl. Acad. Sci. 120, 2023. doi: [10.1073/pnas.2302019120](https://doi.org/10.1073/pnas.2302019120).
 - *S. Contreras Castillo et al.*, “Hydroxycarbamide effects on DNA methylation and gene expression in myeloproliferative neoplasms,” *Genome Research*, vol. 31, no. 8, pp. 1381–1394, Aug. 2021, doi: [10.1101/gr.270066.120](https://doi.org/10.1101/gr.270066.120).
 - *S. Contreras Castillo†, A. Plaza†, et al.*, “Effect of CYP3A4, CYP3A5, MDR1 and POR Genetic Polymorphisms in Immunosuppressive Treatment in Chilean Kidney Transplanted Patients,” *Frontiers in Pharmacology*, vol. 12, Dec. 2021, doi: [10.3389/fphar.2021.674117](https://doi.org/10.3389/fphar.2021.674117).
 - *S. M. Amante et al.*, “Transcription of intragenic CpG islands influences spatiotemporal host gene pre-mRNA processing,” *Nucleic Acids Research*, vol. 48, no. 15, pp. 8349–8359, Sep. 2020, doi: [10.1093/nar/gkaa556](https://doi.org/10.1093/nar/gkaa556).
