@@ -5,7 +5,7 @@ layout: default
 
 I am licensed in Pharmaceutical Sciences from the University of Chile and I have a PhD in Cancer Genetics from King's College London. 
 
-# My research journey
+# Research career
 On my PhD project I investigated the impact of hydroxyurea treatment on DNA methylation and gene expression in patients with myeloproliferative neoplasms, as well as in a mouse model of the disease ([Contreras Castillo, *et al*., 2021](https://genome.cshlp.org/content/early/2021/07/23/gr.270066.120)). After my PhD, I moved to France to work with Dr Katie Sawai at the University of Bordeaux. My research focused on studying the impact of aging on normal hematopoiesis using single-cell multi-omic techniques ([G. Jang†, S. Contreras Castillo†, *et al*., 2023](https://doi.org/10.1073/pnas.2302019120)). 
 
 In 2024, I relocated to Germany to join Dr. Leif Ludwig's laboratory at the Berlin Institute of Health and Max Delbrück Center. Here, I am working on the effects of chemotherapy on the clonal dynamics of hematopoietic cells in young cancer survivors. My project employs state-of-the-art single-cell multi-ome approaches, such as mtscATAC-seq, and utilizes DNA methylation data.
